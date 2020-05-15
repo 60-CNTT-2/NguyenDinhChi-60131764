@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#header {
+    background-image: url('../tainguyen/congnghe.jpg');
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    padding: 40px 40px;
+    background-size: 100%;
+}
+#left {
+    background: gray;
+    color: white;
+    width: 200px;
+    height: 400px;
+    float: left;
+    padding: 1em;
+}
+
+
+.container {
+    padding: 8;
+    margin: 0;
+    background-color: #ffffff;
+    margin-top: 15px;
+}
+
+
+
+
+
+.menu {
+    background: -webkit-linear-gradient(gray, black);
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    display: block;
+    width: 200px;
+    height: 30px;
+}
+
+#reget {
+    display: inline;
+    color: yellow;
+}
+
+
+
+#content {
+    background: white;
+    color: black;
+    width: 735px;
+    height: 400px;
+    float: right;
+    padding: 1em;
+}
+body {
+    width: 1000px;
+    margin: 0 auto;
+    font-family: Helvetica, Arial, sans-serif;
+    background-image: url('../tainguyen/dong.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+input {
+    width: 80px;
+}
+
+#login {
+    margin-left: 5px;
+}
+
+#c1 {
+    margin-top: 10px;
+    margin-left: 10px;
+    text-align: left;
+}
+
+
+
+table {
+    border: 1px solid black;
+}
+.link {
+    color: yellow;
+    font-size: 15px;
+    display: block;
+    margin-left: 8px;
+}
+
+#tr1 {
+    background-color: darkgrey;
+    height: 50px;
+}
+
+#tr1 td {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+#footer {
+    clear: both;
+    background: -webkit-linear-gradient(gray, black);
+    color: white;
+    padding: 1em;
+    text-align: center;
+}
