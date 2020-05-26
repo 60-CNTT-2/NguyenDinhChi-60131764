@@ -1,0 +1,70 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial;
+  
+  }
+  hr{
+      width: 30%;
+      color: blue;
+  }
+  
+
+  header {
+    background-image: url(../multi/congnghe.jpg);
+    padding: 30px;
+    text-align: center;
+    font-size: 15px;
+    color: white;
+  }
+  
+
+  nav {
+    float: left;
+    width: 20%;
+    height: 500px; 
+    background: #ccc;
+    padding: 20px;
+  }
+  
+ 
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  article {
+    float: left;
+    padding: 20px;
+    width: 60%;
+    background-color: #f1f1f1;
+    height: 500px; 
+  }
+  
+
+  section:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  footer {
+    background-color:blue;
+    padding: 10px;
+    text-align: center;
+    color: white;
+  }
+  table{
+      height: 200px;
+      width: 100%;
+  }
+  div{
+  
+    height:500px; 
+    width:290px;
+     float:right;
+     
+  }
+  
