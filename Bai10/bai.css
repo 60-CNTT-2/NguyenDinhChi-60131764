@@ -1,0 +1,17 @@
+  
+body{
+	background-image:url("/Bai10/multi/nen.jpg");
+}
+h3{
+	text-align: center;
+	color: blue;
+}
+div a{
+	margin-left: 20px;
+}
+.blacktext{
+	color: black;
+}
+a{
+	color: black;
+}
